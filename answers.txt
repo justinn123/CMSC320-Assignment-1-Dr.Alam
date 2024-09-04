@@ -1,0 +1,7 @@
+Q1: Why might we consider using git?
+
+Answer: Git allows us to manage code and data when collaborating as a team. Git tracks modifications
+and changes to files allowing multiple developres to work on a project simultaneously while keeping
+a history of all changes made to the codebase. If there are issues with the code, git allows us to revert
+back to an earlier code version. Additionally, the features of branching and merging make it easier to work 
+on features or fixes in isolation before integrating them into the main codebase.
