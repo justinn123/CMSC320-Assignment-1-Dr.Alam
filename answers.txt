@@ -5,3 +5,10 @@ and changes to files allowing multiple developres to work on a project simultane
 a history of all changes made to the codebase. If there are issues with the code, git allows us to revert
 back to an earlier code version. Additionally, the features of branching and merging make it easier to work 
 on features or fixes in isolation before integrating them into the main codebase.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be broadly applied to the entertainment industry, ins areas such as film, television, music, and gaming.
+For instance, streaming platforms like Netflix or Spotify use data science to analyze user behavior and preferences to
+provide personalized recommendations.By leveraging data on what content users watch, listen to, or engage with, these platforms can suggest
+movies, shows, or songs tailored to individual tastes, enhancing user satisfaction.
